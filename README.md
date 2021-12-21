@@ -11,3 +11,7 @@
 
 
 To play the game click [HERE](https://saar95.itch.io/soccergame)
+
+Use the W,A,S,D keys to control your player.
+
+Try to score as much goals as you can!
