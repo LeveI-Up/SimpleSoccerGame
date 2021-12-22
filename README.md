@@ -1,6 +1,6 @@
 # SimpleSoccerGame
 
-### My game is based on the [game](https://github.com/eli-game-dev/multiplayer-tutorial-unity) we leaned in the lesson
+### My game is based on the [game](https://github.com/eli-game-dev/multiplayer-tutorial-unity) we learned in the lesson
 
 ### Added:
 * SoccerBall and 2 Football gates
