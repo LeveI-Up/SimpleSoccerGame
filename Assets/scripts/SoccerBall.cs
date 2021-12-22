@@ -19,9 +19,14 @@ public class SoccerBall : MonoBehaviour
 
     private void OnTriggerEnter(Collider other)
     {
-        if (other.gameObject.tag == "Goal")
+        if (other.gameObject.tag == "Goal1")
         {
-            controller.IncScore();
+            controller.IncScore1();
+        }
+        else if (other.gameObject.tag == "Goal2")
+        {
+            controller.IncScore2();
         }
     }
+    
 }
